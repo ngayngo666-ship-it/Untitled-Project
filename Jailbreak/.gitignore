@@ -1,7 +1,0 @@
-.theos/
-build/
-packages/
-layout/Applications/
-.vcam-installer-key
-.vcam-installer-key.pub
-VCamSSHBootstrap/

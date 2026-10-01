@@ -1,9 +1,0 @@
-Package: com.aech.vcam.ssh-bootstrap
-Name: VCam SSH Bootstrap (Temporary)
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Description: Temporary SSH key bootstrap for installing and testing VCam over USB.
-Maintainer: aech
-Author: aech
-Section: Utilities
-Depends: openssh-server
